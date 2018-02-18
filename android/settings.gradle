@@ -1,0 +1,3 @@
+rootProject.name = 'AwesomRNProject'
+
+include ':app'
